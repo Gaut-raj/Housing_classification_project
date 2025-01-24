@@ -3,7 +3,6 @@ Link to full project pdf: https://docs.google.com/document/d/1zGGvzb1tr1sO12cRnG
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This **Housing Classification Project** is a machine learning project aimed at classifying housing data based on various features. Using powerful libraries such as **NumPy**, **Pandas**, **Scikit-learn**, and **Matplotlib**, this project demonstrates the end-to-end process of building, training, and evaluating classification models.
 
